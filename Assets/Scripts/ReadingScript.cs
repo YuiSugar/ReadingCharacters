@@ -6,7 +6,7 @@ public class ReadingScript : MonoBehaviour
 {
     // ancient monument is hitted by avatar
     bool isHitAvatar = false;
-    // avatar object
+    // monument object
     GameObject monument;
 
     // Start is called before the first frame update
